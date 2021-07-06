@@ -4,6 +4,6 @@ public class Application {
         System.out.println("Hello World");
         System.out.println("Goodbye World");
         System.out.println("Hello Mercury");
-        System.out.println("Hello Mars");
+        System.out.println("Goodbye Mercury");
     }
 }
